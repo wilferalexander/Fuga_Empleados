@@ -1,6 +1,6 @@
 #**Objetivos del proyecto**
 
-Como te ha explicado el director de data science el gran objetivo del proyecto en el que vas a trabajar es reducir la fuga de empleados de la empresa.
+Gran objetivo del proyecto en el que vas a trabajar es reducir la fuga de empleados de la empresa.
 
 Para ello durante esta semana vas a trabajar en 3 grandes cosas:
 
